@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1ZcxvrfDP7Mf-ALkJNApI71uPWm-QtWwq/view?usp=sharing" align="center">
+<img src="https://drive.google.com/file/d/1ZcxvrfDP7Mf-ALkJNApI71uPWm-QtWwq/view?usp=sharing" width="200" height="300"  align="center">
 
 ### Hi there 👋, My Name is Bhanu
 #### Ex Security Engineer @Nykaa | Penetration Tester | Web Developer | Digital Forensics Analyst | CTF Developer    
