@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://thumbs.dreamstime.com/b/human-skull-green-binary-code-matrix-background-side-view-human-skull-concept-hacker-computer-virus-database-theft-171886103.jpg" width="800" height="350" />
+<img align="center" alt="GIF" src="https://thumbs.dreamstime.com/b/human-skull-green-binary-code-matrix-background-side-view-human-skull-concept-hacker-computer-virus-database-theft-171886103.jpg" width="800" height="400" />
 
 ### Hi there 👋, My Name is Bhanu
 
