@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/XZsgCFxscOcAAAAC/skull-fire.gif" width="200" height="500"  align="center">
+<img src="https://c.tenor.com/XZsgCFxscOcAAAAC/skull-fire.gif" width="250" height="400"  align="center">
 
 ### Hi there 👋, My Name is Bhanu
 #### Ex Security Engineer @Nykaa | Penetration Tester | Web Developer | Digital Forensics Analyst | CTF Developer    
