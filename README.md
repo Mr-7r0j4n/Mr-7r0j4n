@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://c.tenor.com/XZsgCFxscOcAAAAC/skull-fire.gif" width="250" height="400" />
+<img align="center" alt="GIF" src="https://thumbs.dreamstime.com/b/human-skull-green-binary-code-matrix-background-side-view-human-skull-concept-hacker-computer-virus-database-theft-171886103.jpg" width="800" height="500" />
 
 ### Hi there 👋, My Name is Bhanu
 
