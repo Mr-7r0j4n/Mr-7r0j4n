@@ -8,7 +8,7 @@ I am open to work as a Security Engineer for Web application, Network Penetratio
 Skills: Penetration Testing - Web Application | Network / Active Directory
 
 - 🔭 I’m currently looking for Entry Level/Fresher Security Engineer Role 
-- 🌱 I’m currently learning AD
+- 🌱 I’m currently learning API Penetration Testing
 - 💬 Ask me about Penetration Testing & CTF & Forensics 
 - 📫 How to reach me: Twitter: @Mr7r0j4n 
 - 😄 Pronouns: He/Him 
