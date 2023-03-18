@@ -1,5 +1,7 @@
 <img align="center" alt="GIF" src="https://thumbs.dreamstime.com/b/human-skull-green-binary-code-matrix-background-side-view-human-skull-concept-hacker-computer-virus-database-theft-171886103.jpg" width="800" height="400" />
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mr-7r0j4n)
+
 ### Hi there 👋, My Name is Bhanu
 
 #### Ex Security Engineer @Nykaa | Penetration Tester | Web Developer | Digital Forensics Analyst | CTF Developer    
