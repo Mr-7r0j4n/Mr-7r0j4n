@@ -13,6 +13,6 @@ Skills:
 
 - 🔭 I’m currently looking for **Entry Level Security Engineer & Front-End Web Developer Role**
 - 💬 Ask me about: **Cyber Security: Penetration Testing, CTF, Forensics, Red-Teaming**
-- 💬 Ask me about: **Web Development: *Front-End and Back-End*
+- 💬 Ask me about: **Web Development: Front-End and Back-End**
 - 📫 How to reach me: **Twitter: @Mr7r0j4n** 
 - 😄 Pronouns: **He/Him**
