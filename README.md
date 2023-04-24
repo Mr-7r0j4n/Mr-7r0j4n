@@ -7,7 +7,7 @@
 #### Ex Security Engineer @Nykaa | Penetration Tester | Web Developer | Digital Forensics Analyst | CTF Player & Developer    
 I am open to work as a Security Engineer or Web Developer. I have a good about Web App Pentesting, API Pentesting, Network Penetration Testing, Active Directory and OSINT. I have 6 months of Industrial experience and 2 years of total experience in Cyber Security & Penetration Testing. And also I have good knowledge in Web Development - Front End and Back End both.
 
-Skills:
+#### Skills:
 1. Penetration Testing - Web Application | API | Network / Active Directory | Digtal Forensics
 2. Web Development - HTML/CSS, Bootstrap, Javascript, node.js, mongoDB, RESTful-API's
 
