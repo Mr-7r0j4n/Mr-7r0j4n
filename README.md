@@ -8,9 +8,10 @@
 I am open to work as a Security Engineer or Web Developer. I have a good about Web App Pentesting, API Pentesting, Network Penetration Testing, Active Directory and OSINT. I have 6 months of Industrial experience and 2 years of total experience in Cyber Security & Penetration Testing. And also I have good knowledge in Web Development - Front End and Back End both.
 
 #### Skills:
-1. Penetration Testing - Web Application | API | Network / Active Directory | Digtal Forensics
-2. Web Development - HTML/CSS, Bootstrap, Javascript, node.js, mongoDB, RESTful-API's
-
+1. Penetration Testing - Web Application | API | Network / Active Directory 
+2. Digtal Forensics
+3. Web Development - HTML/CSS, Bootstrap, Javascript, node.js, mongoDB, RESTful-API's
+---
 - 🔭 I’m currently looking for **Entry Level Security Engineer & Front-End Web Developer Role**
 - 💬 Ask me about: **Cyber Security: Penetration Testing, CTF, Forensics, Red-Teaming**
 - 💬 Ask me about: **Web Development: Front-End and Back-End**
