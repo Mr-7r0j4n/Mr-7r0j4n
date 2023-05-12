@@ -1,4 +1,4 @@
-<a href="mr-trojan.cf" target="blank"><img align="center" src="Itachi.jpg"/></a>
+<img align="center" src="Itachi.jpg"/>
 <h1 align="center">Hi 👋, I'm Mr.7r0j4n</h1>
 <h3 align="center">A Hacker who loves to Crack!!!</h3>
 
