@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **1337_itachiuchiha@protonmail.com**
 
-- 📄 Know about my experiences [**My Portfolio**](http://mr-trojan.cf/)
+<!-- - 📄 Know about my experiences [**My Portfolio**](http://mr-trojan.cf/) -->
 
 - ⚡ Favorite Lines - **So tell me where should I go?  To the left, where nothing is right… Or to the right, where nothing is left…** ***--Itachi Uchiha***
 
